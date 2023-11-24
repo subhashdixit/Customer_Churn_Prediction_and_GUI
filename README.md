@@ -1,4 +1,4 @@
-# Customer Churn Prediction
+# Customer Churn Prediction APP using Tkinter and Machine Learning
 - Using this app, probablity of customer being churn can be predicted
 
 
